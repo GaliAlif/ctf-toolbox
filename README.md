@@ -40,7 +40,7 @@ Clone the repository:
 
 ```bash
 
-git clone https://github.com/YOUR\_USERNAME/ctf-toolbox.git
+git clone https://github.com/GaliAlif/ctf-toolbox.git
 
 cd ctf-toolbox
 
